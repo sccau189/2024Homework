@@ -131,8 +131,7 @@ body {
     /* width: 100vh; */
     height: 350px;
     /* background-color: #f3f3f3; */
-    border: none;
-    padding: 0 20px;
+    padding: 0 15px;
 }
 
 #c-item> .item> div {
